@@ -1,4 +1,3 @@
-jayant-jgk/README.md
 
 Hi, I'm Jayant Kalaghatagi 👋
 Welcome to my GitHub profile!
