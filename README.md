@@ -1,18 +1,23 @@
-# Profile
+Hi, I'm Jayant Kalaghatagi 👋
+Welcome to my GitHub profile!
 
-About Me
-Hello, and thank you for visiting my GitHub page!
+I'm a Mechanical Engineer turned tech enthusiast, currently pursuing my MS in Software Development with a specialization in Data Engineering. My primary interests lie in Artificial Intelligence, particularly in the areas of Machine Learning, Computer Vision, and Natural Language Processing.
 
-I’m Jayant Kalaghatagi, a Mechanical Engineer with a passion for Artificial Intelligence. Currently, I am pursuing my MS in Software Development with a specialization in Data Engineering. I am deeply interested in leveraging technology to solve real-world problems and am particularly focused on Machine Learning, Computer Vision, and Natural Language Processing.
+🚀 About Me
+I have always been fascinated by how technology can solve real-world problems, and I’m eager to explore how Data Engineering and AI can revolutionize industries. On this GitHub page, you'll find my projects, repositories, and contributions related to these fields.
 
-Areas of Expertise:
+💼 My Skill Set:
 Machine Learning
 Artificial Intelligence
 Computer Vision
 Natural Language Processing
-Python Programming
+Python
 TensorFlow
-Feel free to explore my repositories and projects. If you are interested in collaborating or have any questions, don’t hesitate to reach out!
+Feel free to explore my repositories and open-source projects. If you'd like to collaborate or have any questions, don't hesitate to reach out!
+
+🔗 Find Me Online:
+LinkedIn : www.linkedin.com/in/jayant-kalaghatagi
+Email : jayant.jgk@gmail.com
 
 
    
